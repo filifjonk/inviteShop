@@ -16,6 +16,13 @@ const headphones =[
         title: "Apple BYZ S852I",
         price: 2997,
         rate: 4.7,
+    },
+    {
+        id: 1,
+        img: "/img/1.png",
+        title: "Apple BYZ S852I",
+        price: 2997,
+        rate: 4.7,
     }
 
 ]
